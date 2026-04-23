@@ -15,13 +15,6 @@ A sleek and responsive weather application that provides real-time weather data 
 
 ---
 
-## 🖼️ Demo
-
-> Add your live demo link here
-> 🔗 https://your-demo-link.com
-
----
-
 ## 📸 Preview
 <img width="1919" height="934" alt="Main-(1)" src="https://github.com/user-attachments/assets/37425cc0-cc5f-4dae-989e-ced6ed0abef0" />
 <img width="1919" height="931" alt="Main-(2)" src="https://github.com/user-attachments/assets/c0abab6a-5926-406d-8b61-1730724e1189" />
